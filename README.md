@@ -9,7 +9,7 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
 </p>
 
 <p align="center">
-  <img src="https://github.com/kingnic/kingnic/raw/main/PS.png" alt="Photoshop" width="100" />
+  <img src="https://github.com/kingnic/kingnic/raw/main/PS.png" alt="Photoshop" width="200" />
 </p>
 
 - 🔭 I’m currently working on Backrooms The Nightmare 
