@@ -15,6 +15,13 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
 </p>
 
 # Der zeit in Arbeit
+<div style="text-align: center;">
+  <p>Derzeit in Arbeit</p>
+  <div style="position: relative; display: inline-block;">
+    <img src="Bild1.jpg" alt="Bild1" style="position: absolute; top: 0; left: 0; z-index: 2;">
+    <img src="Bild2.jpg" alt="Bild2" style="position: relative; z-index: 1;">
+  </div>
+</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kingnic)  
 
