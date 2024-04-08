@@ -18,7 +18,7 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
 </div>
 
 <div align="center">
-  <div style="display: inline-block;">
+  <div style="display: inline-block; margin-right: 20px;">
     <img src="https://github.com/kingnic/kingnic/raw/main/PS.png" alt="Photoshop" width="150" />
     <p style="text-align: center;">Photoshop</p>
   </div>
