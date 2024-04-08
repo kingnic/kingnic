@@ -16,10 +16,9 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
 
 # Der zeit in Arbeit
 <div style="text-align: center;">
-  <p>Derzeit in Arbeit</p>
   <div style="position: relative; display: inline-block;">
-    <img src="Bild1.jpg" alt="Bild1" style="position: absolute; top: 0; left: 0; z-index: 2;">
-    <img src="Bild2.jpg" alt="Bild2" style="position: relative; z-index: 1;">
+    <img src="https://github.com/kingnic/kingnic/blob/main/backroom.png" alt="Bild1" style="position: absolute; top: 0; left: 0; z-index: 2;">
+    <img src="https://github.com/kingnic/kingnic/blob/main/backrooms1.png" alt="Bild2" style="position: relative; z-index: 1;">
   </div>
 </div>
 
