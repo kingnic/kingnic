@@ -15,9 +15,10 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
 </p>
 
 # Der zeit in Arbeit
-![Bild1](https://github.com/kingnic/kingnic/raw/main/backroom.png)
-
-![Bild2](https://github.com/kingnic/kingnic/raw/main/backrooms1.png)
+<p align="center">
+  <img src="https://github.com/kingnic/kingnic/raw/main/backroom.png" alt="backroom" width="185" style="margin-right: -50px;" />
+  <img src="https://github.com/kingnic/kingnic/raw/main/backrooms1.png" alt="backrooms1" width="185" style="margin-left: -50px;" />
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kingnic)  
 
