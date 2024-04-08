@@ -14,8 +14,7 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
   <img src="https://github.com/kingnic/kingnic/raw/main/PS.png" alt="Photoshop" width="185" />
 </p>
 
-- 🔭 I’m currently working on Backrooms The Nightmare 
-
+# Der zeit in Arbeit
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kingnic)  
 
