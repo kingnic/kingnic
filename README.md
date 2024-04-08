@@ -20,5 +20,5 @@ Ich bin ein Student im 4. Semester des Game Design und Development Studiums mit 
   <img src="https://github.com/kingnic/kingnic/raw/main/backrooms1.png" alt="backrooms1" width="700" style="margin-left: -50px;" />
 </p>
 
-[<img src='https://github.com/kingnic/kingnic/blob/main/Github.jpg' alt='github' height='100'>](https://github.com/kingnic)  
+[<img src='https://github.com/kingnic/kingnic/blob/main/Github.jpg' alt='github' height='80'>](https://github.com/kingnic)  
 
